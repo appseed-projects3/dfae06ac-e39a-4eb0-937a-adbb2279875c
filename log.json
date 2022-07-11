@@ -1,0 +1,23 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "",
+    "db_user": "",
+    "dbms": "0",
+    "description": "generated product",
+    "design": "datta-able",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "dfae06ac-e39a-4eb0-937a-adbb2279875c",
+    "task_info": "Upload Sources [0%] - 132 files",
+    "task_output": "dfae06ac-e39a-4eb0-937a-adbb2279875c.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-07-11-16-19-29",
+    "task_ts_start": "2022-07-11-16-19-26"
+}
